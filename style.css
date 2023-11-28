@@ -50,11 +50,13 @@
 /* header section styles ended */
 /* features section styles started */
 .features {
+    margin-top: 90px;
     background-color: #FFF;
 }
 
 .feature-1 {
     margin-top: 20px;
+    margin-bottom: 30px;
 }
 
 .feature-2 {
@@ -143,3 +145,65 @@
 }
 
 /* features section styles ended */
+/* support section styles started */
+.support {
+    border-radius: 8px;
+    background: rgba(39, 39, 39, 0.05);
+    display: flex;
+    margin-top: 80px;
+    height: 180px;
+    width: 1170px;
+    margin-left: 95px;
+}
+
+.delivery {
+    margin-left: 10px;
+    margin-right: 20px;
+}
+
+.delivery img {
+    width: 88px;
+    height: 88px;
+    padding-top: 40px;
+    padding-left: 100px;
+    margin-left: 100px;
+}
+
+.delivery p {
+    padding-left: 120px;
+}
+
+.freshflower {
+    margin-right: 20px;
+    margin-left: 50px;
+}
+
+.freshflower img {
+    width: 88px;
+    height: 88px;
+    padding-top: 40px;
+    padding-left: 100px;
+}
+.freshflower p{
+    padding-left: 30px;
+}
+
+
+
+
+
+.anytime{
+    margin-left: 30px;
+}
+.anytime img {
+    width: 88px;
+    height: 88px;
+    padding-top: 40px;
+    padding-left: 100px;
+    
+}
+.anytime p{
+    padding-left: 80px;
+}
+
+/* support section styles ended */
