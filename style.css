@@ -262,3 +262,68 @@
 }
 
 /* hot deal section ended */
+/* instagram section started */
+
+.instagram {
+    background-color: #FFF;
+}
+
+.instagram-1 h1 {
+    color: #272727;
+    text-align: center;
+    font-family: Lato;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 800;
+    margin-bottom: 10px;
+
+}
+
+.insta-detais {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 400;
+    margin-bottom: 20px;
+
+}
+
+.instagram-2 {
+    /* display: flex; */
+}
+
+.pic-one {
+    width: 242px;
+    height: 296px;
+    margin-left: 160px;
+    margin-right: 20px;
+}
+
+.pic-two {
+    width: 242px;
+    height: 296px;
+    margin-right: 20px;
+}
+
+.pic-three {
+    width: 242px;
+    height: 296px;
+    margin-right: 20px;
+}
+
+.pic-four {
+    width: 242px;
+    height: 296px;
+   
+}
+/* instagram section ended */
+
+/* latest deal section started */
+.late-deal{
+    
+}
+
+
+
+/* latest deal section ended */
