@@ -23,7 +23,7 @@
 
 .header-detais {
     color: rgba(39, 39, 39, 0.60);
-    font-size: 11px;
+    font-size: 14px;
     font-weight: 500;
     margin-left: 150px;
     margin-top: 20px;
@@ -47,6 +47,99 @@
     margin-left: 330px;
 
 }
-
-
 /* header section styles ended */
+/* features section styles started */
+.features {
+    background-color: #FFF;
+}
+
+.feature-1 {
+    margin-top: 20px;
+}
+
+.feature-2 {
+    display: flex;
+    margin-top: 20px;
+}
+
+.feature-2 li {
+    list-style: none;
+}
+
+.feature-title {
+    color: #272727;
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.feature-details {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 15px;
+    font-weight: 400;
+}
+
+/* feature one picture */
+
+.featurepic1 {
+    width: 380px;
+    height: 460px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(167, 33, 98, 0.15);
+    margin-left: 100px;
+}
+
+.featurepic1 img {
+    padding-left: 30px;
+    padding-top: 32px;
+}
+
+.featurepic1 p {
+    margin-top: 10px;
+    margin-left: 120px;
+    margin-right: 20px;
+
+}
+
+/* feature two picture */
+
+.featurepic2 {
+    width: 380px;
+    height: 460px;
+    border-radius: 300px 300px 0px 0px;
+    background: rgba(5, 151, 160, 0.15);
+    margin-left: 10px;
+}
+
+.featurepic2 img {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.featurepic2 p {
+    padding-left: 130px;
+    padding-top: 80px;
+}
+
+/* feature picture three */
+
+.featurepic3 {
+    width: 380px;
+        height: 460px;
+        border-radius: 300px 300px 0px 0px;
+    background: rgba(71, 125, 17, 0.15);
+    margin-left: 10px;
+}
+
+.featurepic3 img {
+    padding-left: 40px;
+   height: 460px;
+}
+
+.featurepic3 p {
+    margin-left: 120px;
+    margin-top: 10px;
+}
+
+/* features section styles ended */
